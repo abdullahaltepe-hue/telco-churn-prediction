@@ -9,7 +9,7 @@ Final model catches **82% of churners** (recall 0.82).
 - Model comparison: Logistic Regression vs Random Forest + hyperparameter analysis
 
 ## Links
-- [Notebook on Kaggle]((https://www.kaggle.com/abdullahaltepe))
+- [Notebook on Kaggle](https://www.kaggle.com/abdullahaltepe)
 
 ## Tools
 Python · pandas · seaborn · scikit-learn
